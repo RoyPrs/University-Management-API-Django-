@@ -1,0 +1,2 @@
+# PParnia
+University Management API
